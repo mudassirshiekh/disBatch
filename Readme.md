@@ -4,6 +4,7 @@ Distributed processing of a batch of tasks.
 [![Tests](https://github.com/flatironinstitute/disBatch/actions/workflows/tests.yaml/badge.svg)](https://github.com/flatironinstitute/disBatch/actions/workflows/tests.yaml)
 
 ## TL;DR
+## By Mudassir Alam
 
 Create a file `Tasks` with a list of commands you want to run:
 
